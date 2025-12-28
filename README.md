@@ -1,17 +1,18 @@
 ## 👋 About Me:
-I’m a B.Tech CSE (Data Science) student focused on <b>Python, SQL, and Data Analysis</b>.<br>
-I work on beginner-level <b>Machine Learning projects</b> and build <b>backend APIs using FastAPI</b>.<br><br>
+I am a B.Tech CSE (Data Science) student with a strong focus on <b>Python, SQL, and Data Analysis</b>.<br>
+I work on beginner-level <b>Machine Learning projects</b> and develop <b>backend APIs using FastAPI</b>.<br><br>
 
-<b>🌱 Currently Learning:</b><br>
+<b>Currently Learning:</b><br>
 • Machine Learning fundamentals<br>
-• Data Structures<br>
-• Model deployment basics<br><br>
+• Data Structures and Algorithms<br>
+• Basics of model deployment<br><br>
 
-<b>💡 Interests:</b><br>
+<b>Areas of Interest:</b><br>
 • Data-driven problem solving<br>
-• Build
+• Building scalable and maintainable projects<br>
+• Open-source collaboration and continuous learning<br><br>
 
-
+I believe in learning by building and improving through hands-on experimentation.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hkt.96k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harkirat Singh Saggar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harkiratsinghsaggar@gmail.com) 
