@@ -1,4 +1,4 @@
-## 👋 About Me:
+## About Me:
 I am a B.Tech CSE (Data Science) student with a strong focus on <b>Python, SQL, and Data Analysis</b>.<br>
 I work on beginner-level <b>Machine Learning projects</b> and develop <b>backend APIs using FastAPI</b>.<br><br>
 
