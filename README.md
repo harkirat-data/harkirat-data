@@ -24,7 +24,6 @@ I believe in learning by building and improving through hands-on experimentation
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harkirat-data&show_icons=true&theme=dark&count_private=true)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harkirat-data&layout=compact&theme=dark&count_private=true)
 
 ---
