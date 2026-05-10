@@ -1,6 +1,7 @@
 ## About Me
 
-B.Tech CSE (Data Science) student — First Year at Narula Institute of Technology (NiT).
+B.Tech CSE (Data Science) student 
+First Year at Narula Institute of Technology (NiT).
 
 I mainly work with Python, SQL, Machine Learning, and Data Analysis.  
 Currently focused on strengthening fundamentals before moving deeper into advanced AI and scalable systems.
@@ -23,6 +24,7 @@ Currently focused on strengthening fundamentals before moving deeper into advanc
 - Open-source development
 - AI Engineering & ML Systems
 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hkt.96k)
