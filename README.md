@@ -12,9 +12,9 @@ touching frameworks.
 - Data Structures and Algorithms
 
 **Interests:**
-• Data-driven problem solving<br>
-• Building scalable and maintainable projects<br>
-• Open-source development
+- Data-driven problem solving
+- Building scalable and maintainable projects
+- Open-source development
 
 I learn by building. Everything here is work-in-progress or shipped.
 
