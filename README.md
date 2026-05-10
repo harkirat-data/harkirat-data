@@ -1,18 +1,22 @@
-## About Me:
-I am a B.Tech CSE (Data Science) student with a strong focus on <b>Python, SQL, and Data Analysis</b>.<br>
-I work on beginner-level <b>Machine Learning projects</b> and develop <b>backend APIs using FastAPI</b>.<br><br>
+## About Me
 
-<b>Currently Learning:</b><br>
-• Machine Learning fundamentals<br>
-• Data Structures and Algorithms<br>
-• Basics of model deployment<br><br>
+B.Tech CSE (Data Science) student — first year at Narula Institute of Technology(NiT).
+I have a strong focus on Python, SQL and Data Analysis.
+Currently focused on building strong fundamentals before 
+touching frameworks.
 
-<b>Areas of Interest:</b><br>
+**Currently Learning:**
+- Mathematics for ML (Linear Algebra, Probability, Statistics)
+- Model deployment on web
+- Backend development with Python (FastAPI)
+- Data Structures and Algorithms
+
+**Interests:**
 • Data-driven problem solving<br>
 • Building scalable and maintainable projects<br>
-• Open-source collaboration and continuous learning<br><br>
+• Open-source development
 
-I believe in learning by building and improving through hands-on experimentation.<br>
+I learn by building. Everything here is work-in-progress or shipped.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hkt.96k)
