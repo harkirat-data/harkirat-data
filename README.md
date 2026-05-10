@@ -1,22 +1,28 @@
 ## About Me
 
-B.Tech CSE (Data Science) student — first year at Narula Institute of Technology(NiT).
-I have a strong focus on Python, SQL and Data Analysis.
-Currently focused on building strong fundamentals before 
-touching frameworks.
+B.Tech CSE (Data Science) student — First Year at Narula Institute of Technology (NiT).
 
-**Currently Learning:**
-- Mathematics for ML (Linear Algebra, Probability, Statistics)
-- Model deployment on web
-- Backend development with Python (FastAPI)
+I mainly work with Python, SQL, Machine Learning, and Data Analysis.  
+Currently focused on strengthening fundamentals before moving deeper into advanced AI and scalable systems.
+
+---
+
+### Currently Learning
+- Mathematics for Machine Learning  
+  (Linear Algebra, Probability, Statistics)
+- Machine Learning & Model Optimization
+- Backend Development with Python (FastAPI)
 - Data Structures and Algorithms
+- Model Deployment on Web
 
-**Interests:**
+---
+
+### Interests
 - Data-driven problem solving
 - Building scalable and maintainable projects
 - Open-source development
+- AI Engineering & ML Systems
 
-I learn by building. Everything here is work-in-progress or shipped.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hkt.96k)
