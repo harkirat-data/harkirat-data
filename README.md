@@ -38,11 +38,13 @@ Currently focused on strengthening fundamentals before moving deeper into advanc
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
@@ -55,11 +57,6 @@ Currently focused on strengthening fundamentals before moving deeper into advanc
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-### Currently Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-blue?style=for-the-badge)
 
 ---
 
