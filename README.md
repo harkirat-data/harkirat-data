@@ -1,20 +1,23 @@
 ## About Me
 
-B.Tech CSE (Data Science) student. 
-First Year at Narula Institute of Technology (NiT).
+B.Tech CSE (Data Science) student. First Year at 
+Narula Institute of Technology (NiT).
 
-I mainly work with Python, SQL, Machine Learning, and Data Analysis.  
-Currently focused on strengthening fundamentals before moving deeper into advanced AI and scalable systems.
+I mainly work with Python, SQL, Machine Learning, 
+Data Analysis, and FastAPI.
+Currently focused on strengthening fundamentals 
+before moving deeper into advanced AI and 
+scalable systems.
 
 ---
 
 ### Currently Learning
-- Mathematics for Machine Learning  
+- Mathematics for Machine Learning
   (Linear Algebra, Probability, Statistics)
 - Machine Learning & Model Optimization
-- Backend Development with Python (FastAPI)
 - Data Structures and Algorithms
 - Model Deployment on Web
+- Docker & Containerization
 
 ---
 
