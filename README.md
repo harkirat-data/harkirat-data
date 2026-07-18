@@ -1,7 +1,6 @@
 ## About Me
 
-B.Tech CSE (Data Science) student. First Year at 
-Narula Institute of Technology (NiT).
+B.Tech CSE (Data Science) student.
 
 I mainly work with Python, SQL, Machine Learning, 
 Data Analysis, and FastAPI.
