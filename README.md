@@ -3,7 +3,7 @@
 
 <p align="center">
 B.Tech CSE (Data Science) student, building toward AI Engineering & scalable ML systems.<br>
-Currently deep in the fundamentals — math, DSA, and deployment — before going further into applied AI.
+Currently deep in the fundamentals - math, DSA, and deployment, before going further into applied AI.
 </p>
 
 <p align="center">
