@@ -1,16 +1,18 @@
-<h1 align="center">Harkirat Singh Saggar</h1>
-<p align="center"><i>Focused. Unbothered. Improving.</i></p>
+<pre>$ whoami</pre>
 
-<p align="center">
-B.Tech CSE (Data Science) student, building toward AI Engineering & scalable ML systems.<br>
-Currently deep in the fundamentals - math, DSA, and deployment, before going further into applied AI.
-</p>
+## Hi there, I'm [Harkirat](https://github.com/harkirat-data)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/harkirat-singh-ds/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:harkiratsingh96kk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/hkt.96k"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harkirat-singh-ds/)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail)](mailto:harkiratsingh96kk@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram)](https://instagram.com/hkt.96k)
+[![Discord](https://img.shields.io/badge/-_wamp96k-000000?style=flat-square&logo=discord)](https://discord.com/users/781766241647591444)
+
+---
+
+📍 B.Tech CSE (Data Science) student, India
+🎯 Building toward ML Engineering / MLOps, with Agentic AI as a downstream goal
+🔨 Currently deep in Deep Learning fundamentals - backprop, optimizers, PyTorch next
+🧠 Vibe: Focused. Unbothered. Improving.
 
 ---
 
@@ -25,19 +27,19 @@ Streamlit-based dashboard for tracking pet vaccination schedules and sending aut
 ---
 
 ## Currently Working On
-- Deep Learning & NLP fundamentals 
-- PyTorch (tensors, autograd, training pipelines) 
-- Data Structures & Algorithms in Python
+- Deep Learning fundamentals — neural nets, backprop, gradient descent, optimizers, regularization
+- PyTorch (tensors, autograd, training pipelines) as the next step after backprop
+- Data Structures & Algorithms in Python, alongside GATE CSE prep
 
 ## Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Languages:** ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=mysql)
 
-**Data / ML:** ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+**Data / ML:** ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat-square&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=plotly) ![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=plotly)
 
-**Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Backend:** ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi) ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=flat-square&logo=postgresql)
 
-**Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Tools:** ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat-square&logo=visual-studio-code)
 
 ---
 
