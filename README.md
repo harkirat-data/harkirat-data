@@ -11,7 +11,7 @@
 
 📍 B.Tech CSE (Data Science) student, India
 🎯 Building toward ML Engineering / MLOps, with Agentic AI as a downstream goal
-🔨 Currently deep in Deep Learning fundamentals - backprop, optimizers, PyTorch next
+🔨 Currently deep in Deep Learning fundamentals — backprop, optimizers, PyTorch next
 🧠 Vibe: Focused. Unbothered. Improving.
 
 ---
@@ -27,7 +27,7 @@ Streamlit-based dashboard for tracking pet vaccination schedules and sending aut
 ---
 
 ## Currently Working On
-- Deep Learning fundamentals - neural nets, backprop, gradient descent, optimizers, regularization
+- Deep Learning fundamentals — neural nets, backprop, gradient descent, optimizers, regularization
 - PyTorch (tensors, autograd, training pipelines) as the next step after backprop
 - Data Structures & Algorithms in Python, alongside GATE CSE prep
 
@@ -35,11 +35,11 @@ Streamlit-based dashboard for tracking pet vaccination schedules and sending aut
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=mysql)
 
-**Data / ML:** ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat-square&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=plotly) ![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=plotly)
+**Data / ML:** ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat-square&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=plotly) ![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=plotly)
 
 **Backend:** ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi) ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=flat-square&logo=postgresql)
 
-**Tools:** ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat-square&logo=visual-studio-code)
+**Tools:** ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat-square&logo=visual-studio-code) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
 
 ---
 
