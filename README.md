@@ -9,7 +9,7 @@
 
 ---
 
-📍 B.Tech CSE (Data Science) student, India
+📍 B.Tech Data Science student, India
 🎯 Building toward ML Engineering / MLOps, with Agentic AI as a downstream goal
 🔨 Currently deep in Deep Learning fundamentals — backprop, optimizers, PyTorch next
 🧠 Vibe: Focused. Unbothered. Improving.
