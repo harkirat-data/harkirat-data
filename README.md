@@ -18,8 +18,8 @@
 
 ## Featured Projects
 
-**[neural-nets-scratch-vs-keras](https://github.com/harkirat-data/neural-nets-scratch-vs-keras)**
-Neural network built from scratch in NumPy, benchmarked against an equivalent Keras implementation — to actually understand backprop instead of trusting the framework to do it.
+**[Decode-Neural-Networks](https://github.com/harkirat-data/Decode-Neural-Networks)**  
+Implemented neural networks from first principles using only NumPy. Manually coded forward propagation, backpropagation, gradient descent, and gradient checking before benchmarking every step against TensorFlow/Keras.
 
 **[vet-vaccination-reminder](https://github.com/harkirat-data/vet-vaccination-reminder)**
 Streamlit-based dashboard for tracking pet vaccination schedules and sending automated reminders.
