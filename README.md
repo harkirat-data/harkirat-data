@@ -15,8 +15,6 @@
 
 🔨 **Currently Learning:** Deep Learning Fundamentals (Backpropagation, Optimizers, PyTorch)
 
-🧠 **Mindset:** Focused. Unbothered. Improving.
-
 ---
 
 ## Featured Projects
