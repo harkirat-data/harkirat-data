@@ -2,17 +2,20 @@
 
 ## Hi there, I'm [Harkirat](https://github.com/harkirat-data)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harkirat-singh-ds/)
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail)](mailto:harkiratsingh96kk@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram)](https://instagram.com/hkt.96k)
-[![Discord](https://img.shields.io/badge/-_wamp96k-000000?style=flat-square&logo=discord)](https://discord.com/users/781766241647591444)
+<p align="left">
+<a href="..."><img src="https://skillicons.dev/icons?i=linkedin" height="42"></a>&nbsp;
+<a href="..."><img src="https://skillicons.dev/icons?i=gmail" height="42"></a>&nbsp;
+<a href="..."><img src="https://skillicons.dev/icons?i=instagram" height="42"></a>&nbsp;
+<a href="..."><img src="https://skillicons.dev/icons?i=discord" height="42"></a>
+</p>
 
----
+📍 **B.Tech Data Science Student** — India 🇮🇳
 
-📍 B.Tech Data Science student, India
-🎯 Building toward ML Engineering / MLOps, with Agentic AI as a downstream goal
-🔨 Currently deep in Deep Learning fundamentals — backprop, optimizers, PyTorch next
-🧠 Vibe: Focused. Unbothered. Improving.
+🎯 **Goal:** ML Engineering → MLOps 
+
+🔨 **Currently Learning:** Deep Learning Fundamentals (Backpropagation, Optimizers, PyTorch)
+
+🧠 **Mindset:** Focused. Unbothered. Improving.
 
 ---
 
