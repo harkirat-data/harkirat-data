@@ -9,9 +9,9 @@
 <a href="..."><img src="https://skillicons.dev/icons?i=discord" height="42"></a>
 </p>
 
-📍 **B.Tech Data Science Student** — India 🇮🇳
+📍 **B.Tech Data Science Student** - India 🇮🇳
 
-🎯 **Goal:** ML Engineering → MLOps 
+🎯  AI/ML Engineering 
 
 🔨 **Currently Learning:** Deep Learning Fundamentals (Backpropagation, Optimizers, PyTorch)
 
