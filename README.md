@@ -28,7 +28,7 @@ Streamlit-based dashboard for tracking pet vaccination schedules and sending aut
 ---
 
 ## Currently Working On
-- Deep Learning fundamentals — neural nets, backprop, gradient descent, optimizers, regularization
+- Deep Learning fundamentals - neural nets, backprop, gradient descent, optimizers, regularization
 - PyTorch (tensors, autograd, training pipelines) as the next step after backprop
 - Data Structures & Algorithms in Python, alongside GATE CSE prep
 
