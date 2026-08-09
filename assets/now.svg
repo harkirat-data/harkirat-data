@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="290" viewBox="0 0 980 290">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<style>
+.t{font-family:Consolas,'Courier New',monospace;fill:#f0f3f6}
+.m{font-family:Consolas,'Courier New',monospace;fill:#a7b0bc}
+.d{font-family:Consolas,'Courier New',monospace;fill:#657080}
+.h{font-family:Consolas,'Courier New',monospace;fill:#f0f3f6;font-weight:700}
+.l{stroke:#7f8b99;stroke-width:1;fill:none}
+</style>
+<text x="0" y="45" class="t" font-size="34">07</text>
+<text x="52" y="44" class="h" font-size="11" letter-spacing="5">NOW</text>
+<line x1="210" y1="40" x2="830" y2="40" class="l"/>
+<text x="842" y="44" class="d" font-size="8">~/07-now</text>
+<text x="0" y="100" class="h" font-size="14">CURRENT STATUS</text>
+<text x="0" y="130" class="t" font-size="11">finish deep-learning fundamentals → build real systems → move toward MLOps / ML engineering.</text>
+<line x1="0" y1="165" x2="900" y2="165" class="l"/>
+<text x="0" y="195" class="h" font-size="10" letter-spacing="2">LINKS</text>
+<text x="120" y="195" class="t" font-size="10">github.com/harkirat-data · linkedin.com/in/harkirat-singh-ds · instagram @hkt.96k</text>
+<text x="900" y="250" class="d" font-size="8" text-anchor="end">snapshot generated Aug 9, 2026</text>
+</svg>
