@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="285" viewBox="0 0 980 285">
+<rect width="980" height="285" fill="#0d1117"/>
+<style>
+.t{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7}
+.h{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7;font-weight:700}
+.m{font-family:Consolas,"Courier New",monospace;fill:#b7c0ca}
+.d{font-family:Consolas,"Courier New",monospace;fill:#74808d}
+.l{stroke:#596572;stroke-width:1}
+.b{fill:#111820;stroke:#7d8894;stroke-width:1}
+</style><text x="0" y="38" class="t" font-size="52.5">05</text>
+<text x="48" y="37" class="h" font-size="17.5" letter-spacing="5">THE ROUTE</text>
+<line x1="205" y1="33" x2="835" y2="33" class="l"/>
+<text x="848" y="37" class="d" font-size="14">~/05-journey</text><text x="0" y="70" class="h" font-size="14" letter-spacing="3">THE ROUTE SO FAR</text><line x1="45" y1="135" x2="855" y2="135" class="l"/><circle cx="60" cy="135" r="5" fill="#f3f5f7"/><text x="60" y="110" class="h" font-size="14" text-anchor="middle">2025</text><text x="60" y="162" class="h" font-size="14" text-anchor="middle">B.TECH CSE</text><text x="60" y="179" class="d" font-size="12.25" text-anchor="middle">Data Science</text><circle cx="255" cy="135" r="5" fill="#f3f5f7"/><text x="255" y="110" class="h" font-size="14" text-anchor="middle">2025–26</text><text x="255" y="162" class="h" font-size="14" text-anchor="middle">CLASSICAL ML</text><text x="255" y="179" class="d" font-size="12.25" text-anchor="middle">scikit-learn · PCA · evaluation</text><circle cx="450" cy="135" r="5" fill="#f3f5f7"/><text x="450" y="110" class="h" font-size="14" text-anchor="middle">2026</text><text x="450" y="162" class="h" font-size="14" text-anchor="middle">FASTAPI / APPS</text><text x="450" y="179" class="d" font-size="12.25" text-anchor="middle">deployment · APIs · Streamlit</text><circle cx="645" cy="135" r="5" fill="#f3f5f7"/><text x="645" y="110" class="h" font-size="14" text-anchor="middle">NOW</text><text x="645" y="162" class="h" font-size="14" text-anchor="middle">DEEP LEARNING</text><text x="645" y="179" class="d" font-size="12.25" text-anchor="middle">neural networks · Keras · tuning</text><circle cx="840" cy="135" r="5" fill="#f3f5f7"/><text x="840" y="110" class="h" font-size="14" text-anchor="middle">NEXT</text><text x="840" y="162" class="h" font-size="14" text-anchor="middle">ML SYSTEMS</text><text x="840" y="179" class="d" font-size="12.25" text-anchor="middle">MLOps · Docker · AWS</text><line x1="0" y1="220" x2="900" y2="220" class="l"/><text x="0" y="247" class="m" font-size="15.75">finish phases before starting new ones · depth over breadth</text></svg>
