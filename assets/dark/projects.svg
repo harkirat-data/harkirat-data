@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1425" width="100%" role="img" font-family="Consolas, Liberation Mono, Courier New, monospace">
+<rect width="1200" height="1840" fill="#0d1117"/>
+<text x="60" y="65" fill="#f0f6fc" font-size="37.8" font-weight="500" text-anchor="start" letter-spacing="0">03</text>
+<text x="125" y="60" fill="#8b949e" font-size="17.5" font-weight="600" text-anchor="start" letter-spacing="3">PROJECTS</text>
+<line x1="265" y1="56" x2="1090" y2="56" stroke="#30363d" stroke-width="1"/>
+<text x="1110" y="60" fill="#6e7681" font-size="15.1" font-weight="400" text-anchor="end" letter-spacing="0">~/03-projects</text>
+<text x="60" y="105" fill="#8b949e" font-size="17.5" font-weight="600" text-anchor="start" letter-spacing="1.4">PROJECT INDEX — BUILDING WHILE LEARNING</text>
+<text x="1140" y="105" fill="#6e7681" font-size="15.1" font-weight="600" text-anchor="end" letter-spacing="1.5">FIG. 02</text>
+<text x="60" y="145" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">01 / DECODE-NEURAL-NETWORKS</text>
+<text x="60" y="172" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Neural networks built from first principles using NumPy — manual forward prop, loss, backprop, and gradient</text>
+<text x="60" y="189" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">descent for regression and binary classification; cross-checked against TensorFlow/Keras.</text>
+<text x="60" y="211" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">PYTHON · NUMPY · TENSORFLOW · GRADIENT CHECKING</text>
+<line x1="60" y1="233" x2="1140" y2="233" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="251" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">02 / PATIENT MANAGEMENT API</text>
+<text x="60" y="278" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Full-CRUD FastAPI service for patient records — Pydantic models with computed fields, GET/POST/PUT/DELETE</text>
+<text x="60" y="295" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">endpoints, JSON-backed storage.</text>
+<text x="60" y="317" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">PYTHON · FASTAPI · PYDANTIC</text>
+<line x1="60" y1="339" x2="1140" y2="339" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="357" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">03 / 911 CALLS PREDICTOR</text>
+<text x="60" y="384" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">End-to-end analysis of 663,522 emergency calls from Montgomery County, PA — EDA plus Logistic Regression,</text>
+<text x="60" y="401" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Decision Tree, and Random Forest; deployed live.</text>
+<text x="60" y="423" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">PYTHON · PANDAS · SCIKIT-LEARN · STREAMLIT</text>
+<line x1="60" y1="445" x2="1140" y2="445" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="463" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">04 / SALARY PREDICTION MODEL</text>
+<text x="60" y="490" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">XGBoost model on a 250K-row job-salary dataset (R² = 0.976), outperforming Linear Regression and Random Forest</text>
+<text x="60" y="507" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">across tested metrics.</text>
+<text x="60" y="529" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">PYTHON · XGBOOST · PANDAS · STREAMLIT</text>
+<line x1="60" y1="551" x2="1140" y2="551" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="569" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">05 / AI TICKET ANALYZER</text>
+<text x="60" y="596" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Automates support-ticket triage — classifies category and priority and generates a suggested response using an</text>
+<text x="60" y="613" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">LLM, with a React frontend and FastAPI/Flask backend.</text>
+<text x="60" y="635" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">REACT · FASTAPI/FLASK · GEMINI API</text>
+<line x1="60" y1="657" x2="1140" y2="657" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="675" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">06 / VET VACCINATION REMINDER</text>
+<text x="60" y="702" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Streamlit dashboard that reads a CRM&#x27;s exported Excel file and generates pre-filled WhatsApp vaccination</text>
+<text x="60" y="719" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">reminders per pet.</text>
+<text x="60" y="741" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">PYTHON · STREAMLIT</text>
+<line x1="60" y1="763" x2="1140" y2="763" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="781" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">07 / INSURANCE PREMIUM PREDICTOR</text>
+<text x="60" y="808" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">FastAPI + Streamlit app estimating insurance premiums, containerized with Docker; local deployment is working,</text>
+<text x="60" y="825" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">cloud deployment unfinished.</text>
+<text x="60" y="847" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">PYTHON · FASTAPI · STREAMLIT · SCIKIT-LEARN · DOCKER</text>
+<line x1="60" y1="869" x2="1140" y2="869" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="887" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">08 / MEDIROUTE</text>
+<text x="60" y="914" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Emergency medical navigation platform combining Google Gemini for prescription parsing with</text>
+<text x="60" y="931" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Leaflet/OpenStreetMap routing over a mock Kolkata hospital database.</text>
+<text x="60" y="953" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">FLASK · GEMINI API · LEAFLET · OPENSTREETMAP</text>
+<line x1="60" y1="975" x2="1140" y2="975" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="993" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">09 / SOS MESH NETWORK</text>
+<text x="60" y="1020" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Offline disaster-communication app using Flutter and BLE mesh networking — designed for operation without</text>
+<text x="60" y="1037" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">internet or cell service.</text>
+<text x="60" y="1059" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">FLUTTER · BLE · MESH NETWORKING</text>
+<line x1="60" y1="1081" x2="1140" y2="1081" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="1099" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">10 / DIGIT CLASSIFIER (MNIST)</text>
+<text x="60" y="1126" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Dense neural net (Flatten → Dense128 ReLU → Dense10 Softmax), 25 epochs, 97.68% test accuracy.</text>
+<text x="60" y="1148" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">TENSORFLOW · KERAS · NUMPY</text>
+<line x1="60" y1="1170" x2="1140" y2="1170" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="1188" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">11 / CUSTOMER CHURN PREDICTION (ANN)</text>
+<text x="60" y="1215" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Binary classification ANN using Keras/TensorFlow, Adam optimizer, and three Dense layers; documented in-progress</text>
+<text x="60" y="1232" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">fixes include evaluation and scaler-leakage issues.</text>
+<text x="60" y="1254" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">PYTHON · TENSORFLOW · KERAS</text>
+<line x1="60" y1="1276" x2="1140" y2="1276" stroke="#30363d" stroke-width="1"/>
+<text x="60" y="1294" fill="#f0f6fc" font-size="19.1" font-weight="700" text-anchor="start" letter-spacing=".5">12 / PYDANTIC CONCEPTS</text>
+<text x="60" y="1321" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">Standalone repo working through Pydantic in depth — nested models, field/model validators, computed fields, and</text>
+<text x="60" y="1338" fill="#c9d1d9" font-size="15.9" font-weight="400" text-anchor="start" letter-spacing="0">serialization.</text>
+<text x="60" y="1360" fill="#8b949e" font-size="14.3" font-weight="600" text-anchor="start" letter-spacing=".7">PYTHON · PYDANTIC</text>
+</svg>
