@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="330" viewBox="0 0 980 330">
+<rect width="980" height="330" fill="#0d1117"/>
+<style>
+.t{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7}
+.h{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7;font-weight:700}
+.m{font-family:Consolas,"Courier New",monospace;fill:#b7c0ca}
+.d{font-family:Consolas,"Courier New",monospace;fill:#74808d}
+.l{stroke:#596572;stroke-width:1}
+.b{fill:#111820;stroke:#7d8894;stroke-width:1}
+</style><text x="0" y="24" class="h" font-size="16" letter-spacing="4">PORTFOLIO — INDEX № 001</text>
+<text x="900" y="24" class="h" font-size="16" text-anchor="end" letter-spacing="3">KOLKATA, IN</text>
+<line x1="0" y1="42" x2="900" y2="42" class="l"/>
+<text x="0" y="112" class="t" font-size="86">Harkirat Singh Saggar</text>
+<text x="0" y="140" class="h" font-size="24">Data Science · Machine Learning · Deep Learning</text>
+<text x="0" y="176" class="m" font-size="20">focus › classical ML · deep learning · ML systems</text>
+<text x="0" y="197" class="m" font-size="20">status › 2nd-year B.Tech CSE (Data Science) · building in public</text>
+<line x1="0" y1="226" x2="900" y2="226" class="l"/>
+<text x="0" y="252" class="h" font-size="16" letter-spacing="2">B.TECH CSE (DATA SCIENCE)</text>
+<text x="430" y="252" class="h" font-size="16" letter-spacing="2">NARULA INSTITUTE OF TECHNOLOGY</text>
+<text x="900" y="252" class="h" font-size="16" text-anchor="end">2025 / 2029</text>
+<text x="900" y="300" class="d" font-size="16" text-anchor="end">learning pipeline · not a finished product</text></svg>
