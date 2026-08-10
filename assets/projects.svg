@@ -1,0 +1,126 @@
+<svg viewBox="0 0 1000 1690" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fifteen projects by Harkirat Singh Saggar">
+  <style>
+    :root { --ink:#000000; --paper:#FFFFFF; }
+    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .rule { stroke:var(--ink); stroke-width:1; }
+    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
+    .copy { fill:var(--ink); font-size:12px; }
+    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}.r5{animation-delay:.25s}
+    .r6{animation-delay:.30s}.r7{animation-delay:.35s}.r8{animation-delay:.40s}.r9{animation-delay:.45s}.r10{animation-delay:.50s}
+    .r11{animation-delay:.55s}.r12{animation-delay:.60s}.r13{animation-delay:.65s}.r14{animation-delay:.70s}.r15{animation-delay:.75s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    :root { --ink:#000000; --paper:#FFFFFF; }
+  </style>
+
+  <g class="mono">
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title" x="48" y="24">01 / HYPERPARAMETER TUNING</text>
+      <text class="copy" x="48" y="49">Keras Tuner experiments for searching neural-network hyperparameters.</text>
+      <text class="copy" x="48" y="68">Compares candidate configurations to improve validation performance.</text>
+      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · KERAS TUNER · JUPYTER</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / WEIGHTS INITIALIZATION</text>
+      <text class="copy" x="48" y="49">Experiments with neural-network weight initialization and training behavior.</text>
+      <text class="copy" x="48" y="68">Explores how initialization affects convergence and learned representations.</text>
+      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · KERAS · DEEP LEARNING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r3" transform="translate(0 240)">
+      <text class="title" x="48" y="24">03 / DECODE NEURAL NETWORKS</text>
+      <text class="copy" x="48" y="49">Neural-network fundamentals explored from first principles.</text>
+      <text class="copy" x="48" y="68">Implements core forward and learning concepts while studying the math.</text>
+      <text class="meta" x="48" y="87">PYTHON · NUMPY · TENSORFLOW · NEURAL NETWORKS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r4" transform="translate(0 350)">
+      <text class="title" x="48" y="24">04 / IMPROVING NEURAL NETWORKS</text>
+      <text class="copy" x="48" y="49">Experiments with dropout, regularization and training improvements.</text>
+      <text class="copy" x="48" y="68">Studies practical techniques for reducing overfitting and improving generalization.</text>
+      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · KERAS · REGULARIZATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r5" transform="translate(0 460)">
+      <text class="title" x="48" y="24">05 / STOCHASTIC BATCH GRADIENT</text>
+      <text class="copy" x="48" y="49">Hands-on comparison of stochastic and batch gradient descent.</text>
+      <text class="copy" x="48" y="68">Examines optimization behavior and convergence across training strategies.</text>
+      <text class="meta" x="48" y="87">PYTHON · NUMPY · GRADIENT DESCENT · JUPYTER</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r6" transform="translate(0 570)">
+      <text class="title" x="48" y="24">06 / GRADUATE ADMISSION ANN</text>
+      <text class="copy" x="48" y="49">Artificial neural network for graduate-admission prediction.</text>
+      <text class="copy" x="48" y="68">End-to-end preprocessing, training and evaluation of an ANN model.</text>
+      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · KERAS · PANDAS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r7" transform="translate(0 680)">
+      <text class="title" x="48" y="24">07 / DIGITS ANALYZER ANN</text>
+      <text class="copy" x="48" y="49">ANN-based digit classification experiment.</text>
+      <text class="copy" x="48" y="68">Builds and evaluates a neural network for handwritten-digit recognition.</text>
+      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · KERAS · CLASSIFICATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r8" transform="translate(0 790)">
+      <text class="title" x="48" y="24">08 / CREDIT CARD CHURN</text>
+      <text class="copy" x="48" y="49">Machine-learning workflow for customer churn prediction.</text>
+      <text class="copy" x="48" y="68">Compares preprocessing and classification choices for churn modeling.</text>
+      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · PANDAS · CLASSIFICATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r9" transform="translate(0 900)">
+      <text class="title" x="48" y="24">09 / PCA USE CASE</text>
+      <text class="copy" x="48" y="49">Principal Component Analysis applied to a practical dataset.</text>
+      <text class="copy" x="48" y="68">Explores dimensionality reduction and the effect of feature compression.</text>
+      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · PCA · DATA SCIENCE</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r10" transform="translate(0 1010)">
+      <text class="title" x="48" y="24">10 / SVM KERNELS</text>
+      <text class="copy" x="48" y="49">Support Vector Machine experiments with different kernels.</text>
+      <text class="copy" x="48" y="68">Studies how kernel choices change decision boundaries and performance.</text>
+      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · SVM · CLASSIFICATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r11" transform="translate(0 1120)">
+      <text class="title" x="48" y="24">11 / SILHOUETTE CLUSTERING</text>
+      <text class="copy" x="48" y="49">Clustering experiment using silhouette analysis.</text>
+      <text class="copy" x="48" y="68">Evaluates cluster quality and helps compare candidate cluster counts.</text>
+      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · KMEANS · CLUSTERING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r12" transform="translate(0 1230)">
+      <text class="title" x="48" y="24">12 / INSURANCE PREMIUM PREDICTION</text>
+      <text class="copy" x="48" y="49">Regression workflow for insurance-premium prediction.</text>
+      <text class="copy" x="48" y="68">Covers preprocessing, modeling and evaluation on tabular data.</text>
+      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · PANDAS · REGRESSION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r13" transform="translate(0 1340)">
+      <text class="title" x="48" y="24">13 / 911 CALLS PREDICTOR</text>
+      <text class="copy" x="48" y="49">Data-science project exploring 911 call patterns.</text>
+      <text class="copy" x="48" y="68">Uses analysis and predictive modeling to extract signal from call data.</text>
+      <text class="meta" x="48" y="87">PYTHON · PANDAS · MATPLOTLIB · MACHINE LEARNING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r14" transform="translate(0 1450)">
+      <text class="title" x="48" y="24">14 / VET VACCINATION REMINDER</text>
+      <text class="copy" x="48" y="49">Streamlit application for veterinary vaccination reminders.</text>
+      <text class="copy" x="48" y="68">Combines a simple user-facing workflow with Python application logic.</text>
+      <text class="meta" x="48" y="87">PYTHON · STREAMLIT · DATA HANDLING · APP</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r15" transform="translate(0 1560)">
+      <text class="title" x="48" y="24">15 / FASTAPI</text>
+      <text class="copy" x="48" y="49">API development practice for serving machine-learning workflows.</text>
+      <text class="copy" x="48" y="68">Builds model-serving endpoints and explores deployment-ready API patterns.</text>
+      <text class="meta" x="48" y="87">PYTHON · FASTAPI · PYDANTIC · UVICORN</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+  </g>
+</svg>
