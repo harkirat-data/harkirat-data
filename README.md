@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harkirat-data&amp;bg_color=00000000&amp;color=ffffff&amp;line=ffffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Harkirat Singh Saggar contribution graph" width="97%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harkirat-data&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Harkirat Singh Saggar contribution graph" width="97%">
 
 </div>
 
