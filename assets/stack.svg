@@ -13,7 +13,7 @@
   <line x1="138" y1="8" x2="138" y2="230" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <text class="mono rise a1" x="48" y="32"  font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
-  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">Python · SQL · C++ · JavaScript · HTML · CSS</text>
+  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">Python · SQL · C++ </text>
 
   <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">ML / DL</text>
   <text class="mono rise a2" x="154" y="64"  font-size="15" fill="var(--bone)">TensorFlow · Keras · scikit-learn · Keras Tuner</text>
@@ -25,7 +25,7 @@
   <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">FastAPI · Pydantic · Uvicorn · Streamlit</text>
 
   <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">ML SYSTEMS</text>
-  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">Git · GitHub · Docker · AWS · MLflow</text>
+  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">Git · GitHub · Docker </text>
 
   <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">EXPERIMENTS</text>
   <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">ANNs · PCA · SVM · KMeans · NLP · evaluation</text>
