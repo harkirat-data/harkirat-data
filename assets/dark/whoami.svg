@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="300" viewBox="0 0 980 300">
-<rect width="980" height="300" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="320" viewBox="0 0 980 320">
+<rect width="980" height="320" fill="#0d1117"/>
 <style>
 .t{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7}
 .h{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7;font-weight:700}
@@ -7,16 +7,24 @@
 .d{font-family:Consolas,"Courier New",monospace;fill:#74808d}
 .l{stroke:#596572;stroke-width:1}
 .b{fill:#111820;stroke:#7d8894;stroke-width:1}
-</style><text x="0" y="38" class="t" font-size="30">01</text>
-<text x="48" y="37" class="h" font-size="10" letter-spacing="5">WHOAMI</text>
-<line x1="205" y1="33" x2="835" y2="33" class="l"/>
-<text x="848" y="37" class="d" font-size="8">~/01-whoami</text><text x="0" y="91" class="h" font-size="14">second-year CS (Data Science) student at Narula Institute of Technology, Kolkata.</text>
-<text x="0" y="119" class="t" font-size="11">working through machine learning → deep learning → deployment / systems.</text>
-<text x="0" y="147" class="t" font-size="11">current emphasis is depth: understand the model first, then build around it.</text>
-<line x1="0" y1="178" x2="900" y2="178" class="l"/>
-<text x="0" y="207" class="h" font-size="8" letter-spacing="2">FOCUS</text>
-<text x="110" y="207" class="t" font-size="10">Classical ML · Neural Networks · FastAPI / Streamlit</text>
-<text x="0" y="235" class="h" font-size="8" letter-spacing="2">CURRENT</text>
-<text x="110" y="235" class="t" font-size="10">Deep-learning fundamentals + model experimentation</text>
-<text x="0" y="263" class="h" font-size="8" letter-spacing="2">DIRECTION</text>
-<text x="110" y="263" class="t" font-size="10">ML Engineering / MLOps</text></svg>
+</style>
+<text x="0" y="46" class="t" font-size="34">01</text>
+<text x="56" y="45" class="h" font-size="13" letter-spacing="5">WHOAMI</text>
+<line x1="225" y1="40" x2="835" y2="40" class="l"/>
+<text x="848" y="45" class="d" font-size="10">~/01-whoami</text>
+
+<text x="0" y="100" class="h" font-size="16">second-year CS (Data Science) student at Narula Institute of Technology, Kolkata.</text>
+<text x="0" y="128" class="t" font-size="14">working through machine learning → deep learning → deployment / systems.</text>
+<text x="0" y="154" class="t" font-size="14">current emphasis is depth: understand the model first, then build around it.</text>
+
+<line x1="0" y1="184" x2="900" y2="184" class="l"/>
+
+<text x="0" y="222" class="h" font-size="11" letter-spacing="2">FOCUS</text>
+<text x="170" y="222" class="t" font-size="14">Classical ML · Neural Networks · FastAPI / Streamlit</text>
+
+<text x="0" y="258" class="h" font-size="11" letter-spacing="2">CURRENT</text>
+<text x="170" y="258" class="t" font-size="14">Deep-learning fundamentals + model experimentation</text>
+
+<text x="0" y="294" class="h" font-size="11" letter-spacing="2">DIRECTION</text>
+<text x="170" y="294" class="t" font-size="14">ML Engineering / MLOps</text>
+</svg>
