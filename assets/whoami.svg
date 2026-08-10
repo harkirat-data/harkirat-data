@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="360" viewBox="0 0 980 360">
-<rect width="980" height="360" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="380" viewBox="0 0 980 380">
+<rect width="980" height="380" fill="#0d1117"/>
 <style>
 .t{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7}
 .h{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7;font-weight:700}
@@ -8,23 +8,23 @@
 .l{stroke:#596572;stroke-width:1}
 .b{fill:#111820;stroke:#7d8894;stroke-width:1}
 </style>
-<text x="0" y="52" class="t" font-size="42">01</text>
-<text x="66" y="51" class="h" font-size="16" letter-spacing="5">WHOAMI</text>
-<line x1="250" y1="46" x2="835" y2="46" class="l"/>
-<text x="848" y="51" class="d" font-size="12">~/01-whoami</text>
+<text x="0" y="54" class="t" font-size="46">01</text>
+<text x="72" y="53" class="h" font-size="18" letter-spacing="5">WHOAMI</text>
+<line x1="270" y1="48" x2="835" y2="48" class="l"/>
+<text x="848" y="53" class="d" font-size="13">~/01-whoami</text>
 
-<text x="0" y="110" class="h" font-size="20">second-year CS (Data Science) student at Narula Institute of Technology, Kolkata.</text>
-<text x="0" y="142" class="t" font-size="17">working through machine learning → deep learning → deployment / systems.</text>
-<text x="0" y="172" class="t" font-size="17">current emphasis is depth: understand the model first, then build around it.</text>
+<text x="0" y="116" class="h" font-size="22">second-year CS (Data Science) student at Narula Institute of Technology, Kolkata.</text>
+<text x="0" y="150" class="t" font-size="19">working through machine learning → deep learning → deployment / systems.</text>
+<text x="0" y="182" class="t" font-size="19">current emphasis is depth: understand the model first, then build around it.</text>
 
-<line x1="0" y1="204" x2="900" y2="204" class="l"/>
+<line x1="0" y1="216" x2="900" y2="216" class="l"/>
 
-<text x="0" y="246" class="h" font-size="14" letter-spacing="2">FOCUS</text>
-<text x="190" y="246" class="t" font-size="17">Classical ML · Neural Networks · FastAPI / Streamlit</text>
+<text x="0" y="260" class="h" font-size="16" letter-spacing="2">FOCUS</text>
+<text x="200" y="260" class="t" font-size="19">Classical ML · Neural Networks · FastAPI / Streamlit</text>
 
-<text x="0" y="286" class="h" font-size="14" letter-spacing="2">CURRENT</text>
-<text x="190" y="286" class="t" font-size="17">Deep-learning fundamentals + model experimentation</text>
+<text x="0" y="304" class="h" font-size="16" letter-spacing="2">CURRENT</text>
+<text x="200" y="304" class="t" font-size="19">Deep-learning fundamentals + model experimentation</text>
 
-<text x="0" y="326" class="h" font-size="14" letter-spacing="2">DIRECTION</text>
-<text x="190" y="326" class="t" font-size="17">ML Engineering / MLOps</text>
+<text x="0" y="348" class="h" font-size="16" letter-spacing="2">DIRECTION</text>
+<text x="200" y="348" class="t" font-size="19">ML Engineering / MLOps</text>
 </svg>
