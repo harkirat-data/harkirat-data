@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="375" viewBox="0 0 980 375">
-<rect width="980" height="375" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" viewBox="0 0 980 420">
+<rect width="980" height="420" fill="#0d1117"/>
 <style>
 .t{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7}
 .h{font-family:Consolas,"Courier New",monospace;fill:#f3f5f7;font-weight:700}
@@ -7,7 +7,30 @@
 .d{font-family:Consolas,"Courier New",monospace;fill:#74808d}
 .l{stroke:#596572;stroke-width:1}
 .b{fill:#111820;stroke:#7d8894;stroke-width:1}
-</style><text x="0" y="38" class="t" font-size="30">06</text>
-<text x="48" y="37" class="h" font-size="10" letter-spacing="5">STACK</text>
-<line x1="205" y1="33" x2="835" y2="33" class="l"/>
-<text x="848" y="37" class="d" font-size="8">~/06-stack</text><text x="0" y="92" class="h" font-size="8" letter-spacing="2">CORE</text><text x="150" y="92" class="t" font-size="10">Python · SQL · C / C++</text><text x="0" y="126" class="h" font-size="8" letter-spacing="2">DATA</text><text x="150" y="126" class="t" font-size="10">NumPy · Pandas · Matplotlib · Seaborn</text><text x="0" y="160" class="h" font-size="8" letter-spacing="2">ML</text><text x="150" y="160" class="t" font-size="10">scikit-learn · PCA · SVM · clustering</text><text x="0" y="194" class="h" font-size="8" letter-spacing="2">DEEP LEARNING</text><text x="150" y="194" class="t" font-size="10">TensorFlow · Keras · Keras Tuner · PyTorch</text><text x="0" y="228" class="h" font-size="8" letter-spacing="2">APIs / APPS</text><text x="150" y="228" class="t" font-size="10">FastAPI · Flask · Streamlit · Uvicorn</text><text x="0" y="262" class="h" font-size="8" letter-spacing="2">ENGINEERING</text><text x="150" y="262" class="t" font-size="10">Git · GitHub · Docker · AWS</text><line x1="0" y1="315" x2="900" y2="315" class="l"/><text x="0" y="342" class="d" font-size="8">Stack reflects Harkirat’s learning/project history; it is not copied from the reference profile.</text></svg>
+</style>
+<text x="0" y="46" class="t" font-size="34">06</text>
+<text x="56" y="45" class="h" font-size="13" letter-spacing="5">STACK</text>
+<line x1="225" y1="40" x2="835" y2="40" class="l"/>
+<text x="848" y="45" class="d" font-size="10">~/06-stack</text>
+
+<text x="0" y="118" class="h" font-size="11" letter-spacing="2">CORE</text>
+<text x="170" y="118" class="t" font-size="14">Python · SQL · C / C++</text>
+
+<text x="0" y="164" class="h" font-size="11" letter-spacing="2">DATA</text>
+<text x="170" y="164" class="t" font-size="14">NumPy · Pandas · Matplotlib · Seaborn</text>
+
+<text x="0" y="210" class="h" font-size="11" letter-spacing="2">ML</text>
+<text x="170" y="210" class="t" font-size="14">scikit-learn · PCA · SVM · clustering</text>
+
+<text x="0" y="256" class="h" font-size="11" letter-spacing="2">DEEP LEARNING</text>
+<text x="170" y="256" class="t" font-size="14">TensorFlow · Keras · Keras Tuner · PyTorch</text>
+
+<text x="0" y="302" class="h" font-size="11" letter-spacing="2">APIs / APPS</text>
+<text x="170" y="302" class="t" font-size="14">FastAPI · Flask · Streamlit · Uvicorn</text>
+
+<text x="0" y="348" class="h" font-size="11" letter-spacing="2">ENGINEERING</text>
+<text x="170" y="348" class="t" font-size="14">Git · GitHub · Docker · AWS</text>
+
+<line x1="0" y1="378" x2="900" y2="378" class="l"/>
+<text x="0" y="402" class="d" font-size="10">Stack reflects Harkirat's learning/project history; it is not copied from the reference profile.</text>
+</svg>
