@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-v1.svg">
-  <img src="assets/header-v1.svg" alt="Harkirat Singh Saggar — Machine Learning &amp; AI Systems Engineer">
+  <img src="assets/header-v1.svg" alt="Harkirat Singh Saggar">
 </picture>
 
 </div>
@@ -41,7 +41,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/projects.svg">
-  <img src="assets/projects.svg" alt="15 flagship projects by Harkirat Singh Saggar">
+  <img src="assets/projects.svg" alt="15 projects by Harkirat Singh Saggar">
 </picture>
 
 <picture>
@@ -87,7 +87,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/experience.svg">
-  <img src="assets/experience.svg" alt="Project and engineering experience">
+  <img src="assets/experience.svg" alt="Project and learning experience">
 </picture>
 
 <picture>
@@ -107,3 +107,5 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/footer.svg">
   <img src="assets/footer.svg" alt="Current status">
 </picture>
+
+<!-- one responsive picture per visual; reference structure preserved, personal data replaced -->

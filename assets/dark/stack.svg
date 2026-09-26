@@ -1,45 +1,36 @@
-<svg viewBox="0 0 1000 238" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack &#8212; languages, deep learning, data, apis, security &amp; systems, tooling">
+<svg viewBox="0 0 1000 238" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack — languages, mobile, web, data, ai, terminal, tooling">
   <style>
-    :root {
-      --bone: #F5F5F5;
-      --rule: #333333;
-      --muted: #AAAAAA;
-      --dim: #888888;
-      --accent: #FFFFFF;
-      --node-bg: #141414;
-      --core-bg: #1F1F1F;
-      --ghost: #FFFFFF;
-      --ink: #FFFFFF;
-      --paper: #000000;
-    }
-
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --accent: #AAAAAA; } }
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .rise { opacity: 0; animation: rise .6s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes rise { from { opacity:0;transform:translateY(6px); } to { opacity:1;transform:translateY(0); } }
     .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.3s} .a4{animation-delay:.4s} .a5{animation-delay:.5s} .a6{animation-delay:.6s} .a7{animation-delay:.7s}
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
-  </style>
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; }
+  :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
+</style>
 
-  <line x1="145" y1="8" x2="145" y2="230" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+  <line x1="138" y1="8" x2="138" y2="230" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
-  <text class="mono rise a1" x="48" y="32"  font-size="11.5" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
-  <text class="mono rise a1" x="160" y="32"  font-size="14.5" fill="var(--bone)">Python &#183; SQL &#183; C++ &#183; JavaScript / TypeScript</text>
+  <text class="mono rise a1" x="48" y="32"  font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
+  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">Python · SQL · C++ </text>
 
-  <text class="mono rise a2" x="48" y="64"  font-size="11.5" fill="var(--muted)" letter-spacing="2">DEEP LEARNING</text>
-  <text class="mono rise a2" x="160" y="64"  font-size="14.5" fill="var(--bone)">TensorFlow &#183; Keras &#183; PyTorch &#183; Keras Tuner &#183; CNNs &#183; LSTMs</text>
+  <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">ML / DL</text>
+  <text class="mono rise a2" x="154" y="64"  font-size="15" fill="var(--bone)">TensorFlow · Keras · scikit-learn · Keras Tuner</text>
 
-  <text class="mono rise a3" x="48" y="96"  font-size="11.5" fill="var(--muted)" letter-spacing="2">DATA SCIENCE</text>
-  <text class="mono rise a3" x="160" y="96"  font-size="14.5" fill="var(--bone)">Pandas &#183; NumPy &#183; scikit-learn &#183; Matplotlib &#183; Seaborn</text>
+  <text class="mono rise a3" x="48" y="96"  font-size="12" fill="var(--muted)" letter-spacing="2">DATA</text>
+  <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">Pandas · NumPy · Matplotlib · Seaborn · Plotly</text>
 
-  <text class="mono rise a4" x="48" y="128" font-size="11.5" fill="var(--muted)" letter-spacing="2">APIS &amp; SERVING</text>
-  <text class="mono rise a4" x="160" y="128" font-size="14.5" fill="var(--bone)">FastAPI &#183; Pydantic &#183; Uvicorn &#183; WebSockets &#183; Streamlit</text>
+  <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">APIS</text>
+  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">FastAPI · Pydantic · Uvicorn · Streamlit</text>
 
-  <text class="mono rise a5" x="48" y="160" font-size="11.5" fill="var(--muted)" letter-spacing="2">CYBER &amp; DEFENSE</text>
-  <text class="mono rise a5" x="160" y="160" font-size="14.5" fill="var(--bone)">VALENS Deception &#183; Canary Grid &#183; MITRE ATT&amp;CK &#183; WAF Auto-Ban</text>
+  <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">ML SYSTEMS</text>
+  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">Git · GitHub · Docker </text>
 
-  <text class="mono rise a6" x="48" y="192" font-size="11.5" fill="var(--muted)" letter-spacing="2">AI &amp; NLP</text>
-  <text class="mono rise a6" x="160" y="192" font-size="14.5" fill="var(--bone)">RAG Pipelines &#183; LLM Integration &#183; Intent Classification &#183; OCR</text>
+  <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">EXPERIMENTS</text>
+  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">ANNs · PCA · SVM · KMeans · NLP · evaluation</text>
 
-  <text class="mono rise a7" x="48" y="224" font-size="11.5" fill="var(--muted)" letter-spacing="2">TOOLING &amp; OPS</text>
-  <text class="mono rise a7" x="160" y="224" font-size="14.5" fill="var(--bone)">Docker &#183; Git &#183; GitHub &#183; VS Code &#183; JupyterLab &#183; Linux / Bash</text>
+  <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLING</text>
+  <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">VS Code · Jupyter · Git Bash · Python environments</text>
 </svg>
