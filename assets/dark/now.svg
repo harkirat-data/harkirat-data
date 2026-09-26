@@ -1,16 +1,16 @@
 <svg viewBox="0 0 1000 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Now &#8212; AI Systems, Deep Learning, Narula Institute of Technology, building in public">
   <style>
     :root {
-      --bone: #111111;
-      --rule: #D0D0D0;
-      --muted: #555555;
-      --dim: #777777;
-      --accent: #222222;
-      --node-bg: #F8F9FA;
-      --core-bg: #EEEEEE;
-      --ghost: #CCCCCC;
-      --ink: #111111;
-      --paper: #FFFFFF;
+      --bone: #F0F0F0;
+      --rule: #333333;
+      --muted: #888888;
+      --dim: #666666;
+      --accent: #CCCCCC;
+      --node-bg: #141414;
+      --core-bg: #1F1F1F;
+      --ghost: #282828;
+      --ink: #F0F0F0;
+      --paper: #000000;
     }
 
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
