@@ -41,7 +41,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/projects.svg">
-  <img src="assets/projects.svg" alt="15 projects by Harkirat Singh Saggar">
+  <img src="assets/projects.svg" alt="Projects by Harkirat Singh Saggar">
 </picture>
 
 <picture>

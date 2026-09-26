@@ -14,9 +14,9 @@
 
   <g class="rise a1">
     <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">ML / DEEP LEARNING PROJECT WORK</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">ANN experiments · hyperparameter tuning · initialization studies</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">dropout · regularization · gradient-descent experiments</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">HACKATHONS &amp; DEEP LEARNING WORK</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">Valens cyber-deception platform · hackathon builds · ANN architectures</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">hyperparameter tuning · dropout · regularization · gradient descent</text>
   </g>
 
   <g class="rise a2">

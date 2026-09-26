@@ -57,7 +57,7 @@
     <circle cx="880" cy="125" r="4" fill="var(--bone)"/>
     <line x1="880" y1="121" x2="880" y2="96" stroke="var(--rule)"/>
     <text fill="var(--accent)" class="mono" x="880" y="74" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
-    <text fill="var(--bone)" class="mono" x="880" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">ML Engineering / MLOps direction</text>
+    <text fill="var(--bone)" class="mono" x="880" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Hackathons · ML Engineering</text>
   </g>
 
   <g class="m m6">
