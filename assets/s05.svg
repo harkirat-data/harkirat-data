@@ -5,10 +5,10 @@
       --rule: #D0D0D0;
       --muted: #555555;
       --dim: #777777;
-      --accent: #222222;
+      --accent: #111111;
       --node-bg: #F8F9FA;
       --core-bg: #EEEEEE;
-      --ghost: #CCCCCC;
+      --ghost: #000000;
       --ink: #111111;
       --paper: #FFFFFF;
     }
@@ -20,12 +20,13 @@
     @keyframes f { to { opacity: 1; } }
     .tick { animation: p 2.4s ease-in-out infinite; }
     @keyframes p { 0%,100%{opacity:1} 50%{opacity:.7} }
+    .num { font-weight: 700; fill: var(--ghost); }
     @media (prefers-reduced-motion: reduce) {
       .draw,.f,.tick { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; }
     }
   </style>
   <g class="f">
-    <text class="mono" x="48" y="68" font-size="52" fill="var(--ghost)">05</text>
+    <text class="mono num" x="48" y="68" font-size="52">05</text>
     <text class="mono tick" x="128" y="58" font-size="14" fill="var(--accent)" letter-spacing="6">THE ROUTE</text>
     <text class="mono" x="952" y="58" font-size="11" fill="var(--muted)" letter-spacing="2" text-anchor="end">~/05-journey</text>
   </g>

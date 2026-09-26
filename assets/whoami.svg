@@ -5,10 +5,10 @@
       --rule: #D0D0D0;
       --muted: #555555;
       --dim: #777777;
-      --accent: #222222;
+      --accent: #111111;
       --node-bg: #F8F9FA;
       --core-bg: #EEEEEE;
-      --ghost: #CCCCCC;
+      --ghost: #000000;
       --ink: #111111;
       --paper: #FFFFFF;
     }

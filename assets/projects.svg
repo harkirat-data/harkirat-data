@@ -1,146 +1,149 @@
-<svg viewBox="0 0 1000 1700" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fifteen flagship projects by Harkirat Singh Saggar">
+<svg viewBox="0 0 1000 1690" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fifteen flagship projects by Harkirat Singh Saggar">
   <style>
     :root {
       --bone: #111111;
       --rule: #D0D0D0;
       --muted: #555555;
       --dim: #777777;
-      --accent: #222222;
+      --accent: #111111;
       --node-bg: #F8F9FA;
       --core-bg: #EEEEEE;
-      --ghost: #CCCCCC;
+      --ghost: #000000;
       --ink: #111111;
       --paper: #FFFFFF;
     }
 
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .row { opacity: 0; animation: reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .row { opacity: 0; animation: reveal .5s ease forwards; }
     .rule { stroke: var(--rule); stroke-width: 1; }
-    .title { fill: var(--ink); font-size: 17px; font-weight: 700; letter-spacing: .8px; }
-    .copy { fill: var(--muted); font-size: 13.5px; letter-spacing: .2px; }
-    .meta { fill: var(--dim); font-size: 11px; letter-spacing: 1.8px; }
-    @keyframes reveal { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
+    .title { fill: var(--ink); font-size: 16.5px; font-weight: 700; letter-spacing: .8px; }
+    .copy { fill: var(--muted); font-size: 13px; letter-spacing: .2px; }
+    .meta { fill: var(--dim); font-size: 11px; letter-spacing: 1.5px; }
+    @keyframes reveal { from { opacity: 0; } to { opacity: 1; } }
+    .r1{animation-delay:0.05s;}.r2{animation-delay:0.10s;}.r3{animation-delay:0.15s;}.r4{animation-delay:0.20s;}.r5{animation-delay:0.25s;}.r6{animation-delay:0.30s;}.r7{animation-delay:0.35s;}.r8{animation-delay:0.40s;}.r9{animation-delay:0.45s;}.r10{animation-delay:0.50s;}.r11{animation-delay:0.55s;}.r12{animation-delay:0.60s;}.r13{animation-delay:0.65s;}.r14{animation-delay:0.70s;}.r15{animation-delay:0.75s;}
     @media (prefers-reduced-motion: reduce) { .row { animation: none; opacity: 1; } }
   </style>
 
-  <!-- Project 01 -->
-  <g class="row" style="animation-delay:0.00s" transform="translate(0,10)">
-    <text class="title mono" x="48" y="24">01 / VALENS &amp; CYBERSHIELD AI</text>
-    <text class="copy mono" x="48" y="49">Autonomous cyber-deception platform for real-time MITRE ATT&amp;CK correlation.</text>
-    <text class="copy mono" x="48" y="68">Deploys canary tokens, automated WAF quarantine, and RAG-powered incident response.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; FASTAPI &#183; MITRE ATT&amp;CK &#183; WEBSOCKETS &#183; CYBERSECURITY</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 02 -->
-  <g class="row" style="animation-delay:0.05s" transform="translate(0,120)">
-    <text class="title mono" x="48" y="24">02 / AI TICKET ANALYZER</text>
-    <text class="copy mono" x="48" y="49">Automated customer support ticket classification and sentiment scoring engine.</text>
-    <text class="copy mono" x="48" y="68">Extracts intent, urgency level, and categorizes queries for intelligent automated triage.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; NLP &#183; SCIKIT-LEARN &#183; FASTAPI &#183; PYDANTIC</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 03 -->
-  <g class="row" style="animation-delay:0.10s" transform="translate(0,230)">
-    <text class="title mono" x="48" y="24">03 / DECODE NEURAL NETWORKS</text>
-    <text class="copy mono" x="48" y="49">Neural networks built entirely from scratch using pure NumPy and linear algebra.</text>
-    <text class="copy mono" x="48" y="68">Every forward pass, loss, backpropagation, and gradient coded by hand and verified.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; NUMPY &#183; MATHEMATICS &#183; DEEP LEARNING</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 04 -->
-  <g class="row" style="animation-delay:0.15s" transform="translate(0,340)">
-    <text class="title mono" x="48" y="24">04 / LSTM NEXT WORD PREDICTOR &amp; FROM SCRATCH</text>
-    <text class="copy mono" x="48" y="49">Recurrent sequence modeling for character and word prediction tasks.</text>
-    <text class="copy mono" x="48" y="68">Implements gating mechanisms, hidden state recurrence, and sequence generation.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS &#183; LSTM &#183; NLP</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 05 -->
-  <g class="row" style="animation-delay:0.20s" transform="translate(0,450)">
-    <text class="title mono" x="48" y="24">05 / ENCODER-DECODER ARCHITECTURE</text>
-    <text class="copy mono" x="48" y="49">Sequence-to-sequence neural architecture for transforming structured series.</text>
-    <text class="copy mono" x="48" y="68">Explores latent representation bottleneck and state transfer across RNN / LSTM layers.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS &#183; SEQ2SEQ</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 06 -->
-  <g class="row" style="animation-delay:0.25s" transform="translate(0,560)">
-    <text class="title mono" x="48" y="24">06 / VISUALISING CNN &amp; LENET-5</text>
-    <text class="copy mono" x="48" y="49">Deep convolutional networks with layer activations and feature map visualization.</text>
-    <text class="copy mono" x="48" y="68">Inspects convolutional filter responses, spatial hierarchies, and receptive fields.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; OPENCV &#183; CNN &#183; COMPUTER VISION</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 07 -->
-  <g class="row" style="animation-delay:0.30s" transform="translate(0,670)">
-    <text class="title mono" x="48" y="24">07 / CATS VS DOGS &amp; TRANSFER LEARNING</text>
-    <text class="copy mono" x="48" y="49">Image classification using modern CNN architectures and pretrained models.</text>
-    <text class="copy mono" x="48" y="68">Implements data augmentation, fine-tuning feature extractors, and regularization.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS &#183; TRANSFER LEARNING</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 08 -->
-  <g class="row" style="animation-delay:0.35s" transform="translate(0,780)">
-    <text class="title mono" x="48" y="24">08 / HYPERPARAMETER TUNING</text>
-    <text class="copy mono" x="48" y="49">Systematic neural network hyperparameter optimization using Keras Tuner.</text>
-    <text class="copy mono" x="48" y="68">Compares RandomSearch, Hyperband, and Bayesian strategies for optimal convergence.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS TUNER &#183; OPTIMIZATION</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 09 -->
-  <g class="row" style="animation-delay:0.40s" transform="translate(0,890)">
-    <text class="title mono" x="48" y="24">09 / IMPROVING NEURAL NETWORKS</text>
-    <text class="copy mono" x="48" y="49">Generalization techniques: dropout, batch normalization, and weight decay.</text>
-    <text class="copy mono" x="48" y="68">Empirical studies on vanishing/exploding gradients and loss surface stabilization.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS &#183; REGULARIZATION</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 10 -->
-  <g class="row" style="animation-delay:0.45s" transform="translate(0,1000)">
-    <text class="title mono" x="48" y="24">10 / PRESCRIPTION-AI</text>
-    <text class="copy mono" x="48" y="49">AI-assisted medical prescription analysis with OCR and LLM-powered extraction.</text>
-    <text class="copy mono" x="48" y="68">Structures handwritten dosages, instructions, and interactive patient safety chat.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; FASTAPI &#183; OCR &#183; LLM &#183; HEALTHCARE AI</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 11 -->
-  <g class="row" style="animation-delay:0.50s" transform="translate(0,1110)">
-    <text class="title mono" x="48" y="24">11 / FASTAPI &amp; PYDANTIC MICROSERVICES</text>
-    <text class="copy mono" x="48" y="49">High-concurrency microservice layer for serving machine learning models.</text>
-    <text class="copy mono" x="48" y="68">Production schemas, asynchronous endpoints, request validation, and OpenAPI specs.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; FASTAPI &#183; PYDANTIC &#183; UVICORN &#183; REST API</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 12 -->
-  <g class="row" style="animation-delay:0.55s" transform="translate(0,1220)">
-    <text class="title mono" x="48" y="24">12 / CREDIT CARD CHURN PREDICTION</text>
-    <text class="copy mono" x="48" y="49">End-to-end customer churn classification on complex financial tabular data.</text>
-    <text class="copy mono" x="48" y="68">Feature engineering, imbalance handling (SMOTE), and model benchmark comparison.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; SCIKIT-LEARN &#183; PANDAS &#183; CLASSIFICATION</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 13 -->
-  <g class="row" style="animation-delay:0.60s" transform="translate(0,1330)">
-    <text class="title mono" x="48" y="24">13 / PCA USE CASE &amp; SVM KERNELS</text>
-    <text class="copy mono" x="48" y="49">Dimensionality reduction and non-linear classification boundary experiments.</text>
-    <text class="copy mono" x="48" y="68">Evaluates variance retention, projection planes, and RBF / Polynomial kernel spaces.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; SCIKIT-LEARN &#183; PCA &#183; SVM &#183; DATA SCIENCE</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 14 -->
-  <g class="row" style="animation-delay:0.65s" transform="translate(0,1440)">
-    <text class="title mono" x="48" y="24">14 / RUVIEW SPATIAL INTELLIGENCE</text>
-    <text class="copy mono" x="48" y="49">Translates commodity WiFi signal distortions into real-time spatial analytics.</text>
-    <text class="copy mono" x="48" y="68">Presence detection and vital sign monitoring without any camera hardware or video.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; SIGNAL PROCESSING &#183; MACHINE LEARNING &#183; IOT</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
-  </g>
-  <!-- Project 15 -->
-  <g class="row" style="animation-delay:0.70s" transform="translate(0,1550)">
-    <text class="title mono" x="48" y="24">15 / SILHOUETTE CLUSTERING &amp; UNSUPERVISED ML</text>
-    <text class="copy mono" x="48" y="49">Unsupervised clustering evaluation and optimal cluster separation diagnostics.</text>
-    <text class="copy mono" x="48" y="68">Calculates silhouette coefficients to identify cohesive clusters and density boundaries.</text>
-    <text class="meta mono" x="48" y="87">PYTHON &#183; SCIKIT-LEARN &#183; KMEANS &#183; CLUSTERING</text>
-    <line class="rule" x1="48" y1="102" x2="952" y2="102"/>
+  <g class="mono">
+    <!-- Project 01 -->
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title mono" x="48" y="24">01 / VALENS &amp; CYBERSHIELD AI</text>
+      <text class="copy mono" x="48" y="49">Autonomous cyber-deception platform for real-time MITRE ATT&amp;CK correlation.</text>
+      <text class="copy mono" x="48" y="68">Deploys canary tokens, automated WAF quarantine, and RAG-powered incident response.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; FASTAPI &#183; MITRE ATT&amp;CK &#183; WEBSOCKETS &#183; CYBERSECURITY</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 02 -->
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title mono" x="48" y="24">02 / AI TICKET ANALYZER</text>
+      <text class="copy mono" x="48" y="49">Automated customer support ticket classification and sentiment scoring engine.</text>
+      <text class="copy mono" x="48" y="68">Extracts intent, urgency level, and categorizes queries for intelligent automated triage.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; NLP &#183; SCIKIT-LEARN &#183; FASTAPI &#183; PYDANTIC</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 03 -->
+    <g class="row r3" transform="translate(0 240)">
+      <text class="title mono" x="48" y="24">03 / DECODE NEURAL NETWORKS</text>
+      <text class="copy mono" x="48" y="49">Neural networks built entirely from scratch using pure NumPy and linear algebra.</text>
+      <text class="copy mono" x="48" y="68">Every forward pass, loss, backpropagation, and gradient coded by hand and verified.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; NUMPY &#183; MATHEMATICS &#183; DEEP LEARNING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 04 -->
+    <g class="row r4" transform="translate(0 350)">
+      <text class="title mono" x="48" y="24">04 / LSTM NEXT WORD PREDICTOR &amp; FROM SCRATCH</text>
+      <text class="copy mono" x="48" y="49">Recurrent sequence modeling for character and word prediction tasks.</text>
+      <text class="copy mono" x="48" y="68">Implements gating mechanisms, hidden state recurrence, and sequence generation.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS &#183; LSTM &#183; NLP</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 05 -->
+    <g class="row r5" transform="translate(0 460)">
+      <text class="title mono" x="48" y="24">05 / ENCODER-DECODER ARCHITECTURE</text>
+      <text class="copy mono" x="48" y="49">Sequence-to-sequence neural architecture for transforming structured series.</text>
+      <text class="copy mono" x="48" y="68">Explores latent representation bottleneck and state transfer across RNN / LSTM layers.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS &#183; SEQ2SEQ</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 06 -->
+    <g class="row r6" transform="translate(0 570)">
+      <text class="title mono" x="48" y="24">06 / VISUALISING CNN &amp; LENET-5</text>
+      <text class="copy mono" x="48" y="49">Deep convolutional networks with layer activations and feature map visualization.</text>
+      <text class="copy mono" x="48" y="68">Inspects convolutional filter responses, spatial hierarchies, and receptive fields.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; OPENCV &#183; CNN &#183; COMPUTER VISION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 07 -->
+    <g class="row r7" transform="translate(0 680)">
+      <text class="title mono" x="48" y="24">07 / CATS VS DOGS &amp; TRANSFER LEARNING</text>
+      <text class="copy mono" x="48" y="49">Image classification using modern CNN architectures and pretrained models.</text>
+      <text class="copy mono" x="48" y="68">Implements data augmentation, fine-tuning feature extractors, and regularization.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS &#183; TRANSFER LEARNING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 08 -->
+    <g class="row r8" transform="translate(0 790)">
+      <text class="title mono" x="48" y="24">08 / HYPERPARAMETER TUNING</text>
+      <text class="copy mono" x="48" y="49">Systematic neural network hyperparameter optimization using Keras Tuner.</text>
+      <text class="copy mono" x="48" y="68">Compares RandomSearch, Hyperband, and Bayesian strategies for optimal convergence.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS TUNER &#183; OPTIMIZATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 09 -->
+    <g class="row r9" transform="translate(0 900)">
+      <text class="title mono" x="48" y="24">09 / IMPROVING NEURAL NETWORKS</text>
+      <text class="copy mono" x="48" y="49">Generalization techniques: dropout, batch normalization, and weight decay.</text>
+      <text class="copy mono" x="48" y="68">Empirical studies on vanishing/exploding gradients and loss surface stabilization.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; TENSORFLOW &#183; KERAS &#183; REGULARIZATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 10 -->
+    <g class="row r10" transform="translate(0 1010)">
+      <text class="title mono" x="48" y="24">10 / PRESCRIPTION-AI</text>
+      <text class="copy mono" x="48" y="49">AI-assisted medical prescription analysis with OCR and LLM-powered extraction.</text>
+      <text class="copy mono" x="48" y="68">Structures handwritten dosages, instructions, and interactive patient safety chat.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; FASTAPI &#183; OCR &#183; LLM &#183; HEALTHCARE AI</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 11 -->
+    <g class="row r11" transform="translate(0 1120)">
+      <text class="title mono" x="48" y="24">11 / FASTAPI &amp; PYDANTIC MICROSERVICES</text>
+      <text class="copy mono" x="48" y="49">High-concurrency microservice layer for serving machine learning models.</text>
+      <text class="copy mono" x="48" y="68">Production schemas, asynchronous endpoints, request validation, and OpenAPI specs.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; FASTAPI &#183; PYDANTIC &#183; UVICORN &#183; REST API</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 12 -->
+    <g class="row r12" transform="translate(0 1230)">
+      <text class="title mono" x="48" y="24">12 / CREDIT CARD CHURN PREDICTION</text>
+      <text class="copy mono" x="48" y="49">End-to-end customer churn classification on complex financial tabular data.</text>
+      <text class="copy mono" x="48" y="68">Feature engineering, imbalance handling (SMOTE), and model benchmark comparison.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; SCIKIT-LEARN &#183; PANDAS &#183; CLASSIFICATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 13 -->
+    <g class="row r13" transform="translate(0 1340)">
+      <text class="title mono" x="48" y="24">13 / PCA USE CASE &amp; SVM KERNELS</text>
+      <text class="copy mono" x="48" y="49">Dimensionality reduction and non-linear classification boundary experiments.</text>
+      <text class="copy mono" x="48" y="68">Evaluates variance retention, projection planes, and RBF / Polynomial kernel spaces.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; SCIKIT-LEARN &#183; PCA &#183; SVM &#183; DATA SCIENCE</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 14 -->
+    <g class="row r14" transform="translate(0 1450)">
+      <text class="title mono" x="48" y="24">14 / RUVIEW SPATIAL INTELLIGENCE</text>
+      <text class="copy mono" x="48" y="49">Translates commodity WiFi signal distortions into real-time spatial analytics.</text>
+      <text class="copy mono" x="48" y="68">Presence detection and vital sign monitoring without any camera hardware or video.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; SIGNAL PROCESSING &#183; MACHINE LEARNING &#183; IOT</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <!-- Project 15 -->
+    <g class="row r15" transform="translate(0 1560)">
+      <text class="title mono" x="48" y="24">15 / SILHOUETTE CLUSTERING &amp; UNSUPERVISED ML</text>
+      <text class="copy mono" x="48" y="49">Unsupervised clustering evaluation and optimal cluster separation diagnostics.</text>
+      <text class="copy mono" x="48" y="68">Calculates silhouette coefficients to identify cohesive clusters and density boundaries.</text>
+      <text class="meta mono" x="48" y="87">PYTHON &#183; SCIKIT-LEARN &#183; KMEANS &#183; CLUSTERING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
   </g>
 </svg>

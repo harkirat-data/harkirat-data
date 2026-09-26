@@ -1,15 +1,15 @@
 <svg viewBox="0 0 1000 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Section 03 &#8212; PROJECTS">
   <style>
     :root {
-      --bone: #F0F0F0;
+      --bone: #F5F5F5;
       --rule: #333333;
-      --muted: #888888;
-      --dim: #666666;
-      --accent: #CCCCCC;
+      --muted: #AAAAAA;
+      --dim: #888888;
+      --accent: #FFFFFF;
       --node-bg: #141414;
       --core-bg: #1F1F1F;
-      --ghost: #282828;
-      --ink: #F0F0F0;
+      --ghost: #FFFFFF;
+      --ink: #FFFFFF;
       --paper: #000000;
     }
 
@@ -20,12 +20,13 @@
     @keyframes f { to { opacity: 1; } }
     .tick { animation: p 2.4s ease-in-out infinite; }
     @keyframes p { 0%,100%{opacity:1} 50%{opacity:.7} }
+    .num { font-weight: 700; fill: var(--ghost); }
     @media (prefers-reduced-motion: reduce) {
       .draw,.f,.tick { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; }
     }
   </style>
   <g class="f">
-    <text class="mono" x="48" y="68" font-size="52" fill="var(--ghost)">03</text>
+    <text class="mono num" x="48" y="68" font-size="52">03</text>
     <text class="mono tick" x="128" y="58" font-size="14" fill="var(--accent)" letter-spacing="6">PROJECTS</text>
     <text class="mono" x="952" y="58" font-size="11" fill="var(--muted)" letter-spacing="2" text-anchor="end">~/03-projects</text>
   </g>

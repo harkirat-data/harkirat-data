@@ -1,15 +1,15 @@
 <svg viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status: building. Kolkata, India &#183; github.com/harkirat-data">
   <style>
     :root {
-      --bone: #F0F0F0;
+      --bone: #F5F5F5;
       --rule: #333333;
-      --muted: #888888;
-      --dim: #666666;
-      --accent: #CCCCCC;
+      --muted: #AAAAAA;
+      --dim: #888888;
+      --accent: #FFFFFF;
       --node-bg: #141414;
       --core-bg: #1F1F1F;
-      --ghost: #282828;
-      --ink: #F0F0F0;
+      --ghost: #FFFFFF;
+      --ink: #FFFFFF;
       --paper: #000000;
     }
 
