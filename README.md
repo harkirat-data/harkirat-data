@@ -6,6 +6,10 @@
   <img src="assets/header-v1.svg" alt="Harkirat Singh Saggar">
 </picture>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harkirat-data&style=flat-square&color=000000" alt="Profile views" />
+</p>
+
 </div>
 
 <picture>
