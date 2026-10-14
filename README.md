@@ -7,7 +7,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harkirat-data&style=flat-square&color=000000" alt="Profile views" />
+  <a href="https://hits.sh/github.com/harkirat-data/"><img src="https://hits.sh/github.com/harkirat-data.svg?style=flat-square&label=Profile%20views&color=000000&labelColor=555555" alt="Profile views" /></a>
 </p>
 
 </div>
