@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 580" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Five projects by Harkirat Singh Saggar">
+<svg viewBox="0 0 1000 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Four projects by Harkirat Singh Saggar">
   <style>
     :root { --ink:#000000; --paper:#FFFFFF; }
     @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
@@ -9,45 +9,38 @@
     .copy { fill:var(--ink); font-size:12px; }
     .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
     @keyframes reveal { from { opacity:0; } to { opacity:1; } }
-    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}.r5{animation-delay:.25s}
+    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}
     @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
     :root { --ink:#000000; --paper:#FFFFFF; }
   </style>
 
   <g class="mono">
     <g class="row r1" transform="translate(0 20)">
-      <text class="title" x="48" y="24">01 / VALENS</text>
-      <text class="copy" x="48" y="49">Autonomous cyber-deception platform for real-time MITRE ATT&amp;CK correlation.</text>
-      <text class="copy" x="48" y="68">Deploys canary tokens, automated WAF quarantine, and RAG-powered incident response.</text>
-      <text class="meta" x="48" y="87">PYTHON · FASTAPI · MITRE ATT&amp;CK · WEBSOCKETS · CYBERSECURITY</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r2" transform="translate(0 130)">
-      <text class="title" x="48" y="24">02 / DECODE NEURAL NETWORKS</text>
+      <text class="title" x="48" y="24">01 / DECODE NEURAL NETWORKS</text>
       <text class="copy" x="48" y="49">Neural-network fundamentals explored from first principles.</text>
       <text class="copy" x="48" y="68">Implements core forward and learning concepts while studying the math.</text>
       <text class="meta" x="48" y="87">PYTHON · NUMPY · TENSORFLOW · NEURAL NETWORKS</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / VALENS</text>
+      <text class="copy" x="48" y="49">Autonomous cyber-deception platform for real-time MITRE ATT&amp;CK correlation.</text>
+      <text class="copy" x="48" y="68">Deploys canary tokens, automated WAF quarantine, and RAG-powered incident response.</text>
+      <text class="meta" x="48" y="87">PYTHON · FASTAPI · MITRE ATT&amp;CK · WEBSOCKETS · CYBERSECURITY</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
     <g class="row r3" transform="translate(0 240)">
-      <text class="title" x="48" y="24">03 / HYPERPARAMETER TUNING</text>
-      <text class="copy" x="48" y="49">Keras Tuner experiments for searching neural-network hyperparameters.</text>
-      <text class="copy" x="48" y="68">Compares candidate configurations to improve validation performance.</text>
-      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · KERAS TUNER · JUPYTER</text>
+      <text class="title" x="48" y="24">03 / AEGIS HARNESS</text>
+      <text class="copy" x="48" y="49">Tri-workload zero-trust evaluation sandbox for adversarial AI safety.</text>
+      <text class="copy" x="48" y="68">Enforces physical and logical isolation between red-team payloads and LLM targets.</text>
+      <text class="meta" x="48" y="87">PYTHON · GVISOR · DOCKER · LLM SAFETY · ZERO-TRUST</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r4" transform="translate(0 350)">
-      <text class="title" x="48" y="24">04 / WEIGHTS INITIALIZATION</text>
-      <text class="copy" x="48" y="49">Experiments with neural-network weight initialization and training behavior.</text>
-      <text class="copy" x="48" y="68">Explores how initialization affects convergence and learned representations.</text>
-      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · KERAS · DEEP LEARNING</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r5" transform="translate(0 460)">
-      <text class="title" x="48" y="24">05 / IMPROVING NEURAL NETWORKS</text>
-      <text class="copy" x="48" y="49">Experiments with dropout, regularization and training improvements.</text>
-      <text class="copy" x="48" y="68">Studies practical techniques for reducing overfitting and improving generalization.</text>
-      <text class="meta" x="48" y="87">PYTHON · TENSORFLOW · KERAS · REGULARIZATION</text>
+      <text class="title" x="48" y="24">04 / LUNAR LANDING AGENT</text>
+      <text class="copy" x="48" y="49">Autonomous lunar lander trained with Proximal Policy Optimization (PPO).</text>
+      <text class="copy" x="48" y="68">Mastered the continuous-state Box2D environment in Gymnasium with a 247+ mean score.</text>
+      <text class="meta" x="48" y="87">PYTHON · PYTORCH · STABLE-BASELINES3 · GYMNASIUM · REINFORCEMENT LEARNING</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
   </g>

@@ -15,8 +15,8 @@
   <line x1="0" y1="0.5" x2="1000" y2="0.5" stroke="var(--rule)"/>
   <line x1="0" y1="63.5" x2="1000" y2="63.5" stroke="var(--rule)"/>
   <g class="belt">
-    <text class="mono" x="60" y="38" font-size="13" letter-spacing="2">NOW  ▸  2ND-YEAR CS (DATA SCIENCE) @ NARULA  ✦  ML &amp; DEEP LEARNING  ✦  ML ENGINEERING / MLOPS  ✦  BUILDING PROJECTS</text>
-    <text class="mono" x="1620" y="38" font-size="13" letter-spacing="2">NOW  ▸  2ND-YEAR CS (DATA SCIENCE) @ NARULA  ✦  ML &amp; DEEP LEARNING  ✦  ML ENGINEERING / MLOPS  ✦  BUILDING PROJECTS</text>
+    <text class="mono" x="60" y="38" font-size="13" letter-spacing="2">NOW  ▸  2ND-YEAR CS (DATA SCIENCE) @ NARULA  ✦  ML &amp; DEEP LEARNING  ✦  REINFORCEMENT LEARNING  ✦  BUILDING PROJECTS</text>
+    <text class="mono" x="1620" y="38" font-size="13" letter-spacing="2">NOW  ▸  2ND-YEAR CS (DATA SCIENCE) @ NARULA  ✦  ML &amp; DEEP LEARNING  ✦  REINFORCEMENT LEARNING  ✦  BUILDING PROJECTS</text>
   </g>
   <defs>
     <linearGradient id="lm-l" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
