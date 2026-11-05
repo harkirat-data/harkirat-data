@@ -11,17 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/harkirat-data" target="_blank" title="Hacktoberfest 2026 — Fest Attendee (Awarded by DEV Community)">
-    <img src="assets/badges/hacktoberfest-2026.png" height="85" alt="Hacktoberfest 2026 DEV Badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/harkirat-data/AegisHarness-Hacktoberfest" target="_blank" title="Winner — Best Open-Source AI Project | AKI Hacks × Hacktoberfest 2026 (AegisHarness)">
-    <img src="assets/badges/hacktoberfest-2026-irl.png" height="85" alt="Hacktoberfest 2026 IRL Sticker Pack — Winner Best Open-Source AI Project" />
-  </a>
+  <a href="https://dev.to/harkirat-data" target="_blank" title="Hacktoberfest 2026 — Fest Attendee (Awarded by DEV Community)"><img src="assets/badges/hacktoberfest-2026.png" height="85" alt="Hacktoberfest 2026 DEV Badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/harkirat-data/AegisHarness-Hacktoberfest" target="_blank" title="Winner — Best Open-Source AI Project | AKI Hacks × Hacktoberfest 2026 (AegisHarness)"><img src="assets/badges/hacktoberfest-2026-irl.png" height="85" alt="Hacktoberfest 2026 IRL Sticker Pack — Winner Best Open-Source AI Project" /></a>
 </p>
 
 <p align="center">
-  <sub><strong>Hacktoberfest 2026 — Fest Attendee</strong> (DEV Community) &nbsp;·&nbsp; <strong>Winner — Best Open-Source AI Project</strong> (<a href="https://github.com/harkirat-data/AegisHarness-Hacktoberfest">AegisHarness</a> · AKI Hacks × Hacktoberfest 2026)</sub>
+  <sub><strong>Hacktoberfest 2026 - Fest Attendee</strong> (DEV Community) &nbsp;·&nbsp; <strong>Winner - Best Open-Source AI Project</strong> (AegisHarness · AKI Hacks × Hacktoberfest 2026)</sub>
 </p>
 
 </div>
